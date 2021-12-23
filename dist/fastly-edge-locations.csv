@@ -1,0 +1,82 @@
+code,city,country,country_code,hasMultiplePoPs,latitude,longitude
+IAD,Ashburn,United States,US,true,38.94449997,-77.45580292
+ATL,Atlanta,United States,US,true,33.6367,-84.428101
+BOS,Boston,United States,US,false,42.36429977,-71.00520325
+MDW,Chicago,United States,US,true,41.785999,-87.752403
+CMH,Columbus,United States,US,false,39.998001,-82.891899
+DAL,Dallas,United States,US,true,32.847099,-96.851799
+DEN,Denver,United States,US,false,39.861698150635,-104.672996521
+DTW,Detroit,United States,US,false,42.212398529052734,-83.35340118408203
+HOU,Houston,United States,US,false,29.64539909,-95.27890015
+JAX,Jacksonville,United States,US,false,30.49410057067871,-81.68789672851562
+MCI,Kansas City,United States,US,false,39.2976,-94.713898
+LAX,Los Angeles,United States,US,true,33.942501,-118.407997
+MIA,Miami,United States,US,false,25.79319953918457,-80.29060363769531
+MSP,Minneapolis,United States,US,false,44.882,-93.221802
+YUL,Montreal,Canada,CA,false,45.470556,-73.740833
+JFK,New York,United States,US,true,40.639801,-73.7789
+PHX,Phoenix,United States,US,false,33.43429946899414,-112.01200103759766
+PDX,Portland,United States,US,false,45.58869934,-122.5979996
+SJC,San Jose,United States,US,true,37.362598,-121.929001
+BFI,Seattle,United States,US,false,47.529998779296875,-122.302001953125
+STL,St Louis,United States,US,false,38.748697,-90.370003
+YYZ,Toronto,Canada,CA,false,43.6772003174,-79.63059997559999
+YVR,Vancouver,Canada,CA,false,49.193901062,-123.183998108
+BOG,Bogota,Colombia,CO,false,4.70159,-74.1469
+EZE,Buenos Aires,Argentina,AR,false,-34.8222,-58.5358
+CWB,Curitiba,Brazil,BR,false,-25.5284996033,-49.1758003235
+FOR,Fortaleza,Brazil,BR,false,-3.775833,-38.532222
+LIM,Lima,Peru,PE,false,-12.0219,-77.114305
+GRU,São Paulo,Brazil,BR,true,-23.435556411743164,-46.47305679321289
+SCL,Santiago,Chile,CL,false,-33.393001556396484,-70.78579711914062
+GIG,Rio de Janeiro,Brazil,BR,false,-22.8099994659,-43.2505569458
+AMS,Amsterdam,Netherlands,NL,false,52.308601,4.76389
+CPH,Copenhagen,Denmark,DK,false,55.617900848389,12.656000137329
+DUB,Dublin,Ireland,IE,false,53.421299,-6.27007
+FRA,Frankfurt am Main,Germany,DE,true,50.033333,8.570556
+HEL,Helsinki,Finland,FI,false,60.317199707031,24.963300704956
+LTN,London,United Kingdom,GB,true,51.874698638916016,-0.36833301186561584
+MAD,Madrid,Spain,ES,false,40.471926,-3.56264
+MAN,Manchester,United Kingdom,GB,false,53.35369873046875,-2.2749500274658203
+MRS,Marseille,France,FR,false,43.439271922,5.22142410278
+MXP,Milan,Italy,IT,false,45.6306,8.72811
+MUC,Munich,Germany,DE,false,48.353802,11.7861
+OSL,Oslo,Norway,NO,false,60.193901062012,11.100399971008
+CDG,Paris,France,FR,false,49.012798,2.55
+CIA,Rome,Italy,IT,false,41.7994,12.5949
+ARN,Stockholm,Sweden,SE,false,59.651901245117,17.918600082397
+VIE,Vienna,Austria,AT,false,48.110298156738,16.569700241089
+ACC,Accra,Ghana,GH,false,5.605189800262451,-0.16678600013256073
+CPT,Cape Town,South Africa,ZA,false,-33.9648017883,18.6016998291
+JNB,Johannesburg,South Africa,ZA,false,-26.1392,28.246
+MAA,Chennai,India,IN,false,12.990005493164062,80.16929626464844
+FJR,Fujairah,United Arab Emirates,AE,false,25.112222,56.324167
+HKG,Hong Kong,Hong Kong,HK,false,22.308901,113.915001
+HYD,Hyderabad,India,IN,false,17.231318,78.429855
+KUL,Kuala Lumpur,Malaysia,MY,false,2.745579957962,101.70999908447
+MNL,Manila,Philippines,PH,false,14.5086,121.019997
+BOM,Mumbai,India,IN,false,19.0886993408,72.8678970337
+DEL,New Delhi,India,IN,false,28.5665,77.103104
+KIX,Osaka,Japan,JP,false,34.42729949951172,135.24400329589844
+ICN,Seoul,Korea, Republic of,KR,false,37.46910095214844,126.45099639892578
+SIN,Singapore,Singapore,SG,false,1.35019,103.994003
+NRT,Tokyo,Japan,JP,true,35.764702,140.386002
+AKL,Auckland,New Zealand,NZ,false,-37.008098602299995,174.792007446
+BNE,Brisbane,Australia,AU,false,-27.384199142456055,153.11700439453125
+MEL,Melbourne,Australia,AU,false,-37.673302,144.843002
+PER,Perth,Australia,AU,false,-31.94029998779297,115.96700286865234
+SYD,Sydney,Australia,AU,false,-33.94609832763672,151.177001953125
+WLG,Wellington,New Zealand,NZ,false,-41.3272018433,174.804992676
+ADL,Adelaide,Australia,AU,false,-34.945,138.531006
+BRU,Brussels,Belgium,BE,false,50.901401519800004,4.48443984985
+YYC,Calgary,Canada,CA,false,51.113899231,-114.019996643
+CHC,Christchurch,New Zealand,NZ,false,-43.48939895629883,172.53199768066406
+DXB,Dubai,United Arab Emirates,AE,false,25.2527999878,55.3643989563
+HNL,Honolulu,United States,US,false,21.32062,-157.924228
+CGK,Jakarta,Indonesia,ID,false,-6.1255698204,106.65599823
+CCU,Kolkata,India,IN,false,22.654699325561523,88.44670104980469
+LIS,Lisbon,Portugal,PT,false,38.7813,-9.13592
+MEX,Mexico City,Mexico,MX,false,19.4363,-99.072098
+NBO,Nairobi,Kenya,KE,false,-1.31923997402,36.9277992249
+SOF,Sofia,Bulgaria,BG,false,42.696693420410156,23.411436080932617
+TPE,Taipei,Taiwan, Province of China,TW,false,25.0777,121.233002
