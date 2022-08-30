@@ -23,6 +23,14 @@
     "latitude": 42.36429977,
     "longitude": -71.00520325
   },
+  "YYC": {
+    "city": "Calgary",
+    "country": "Canada",
+    "countryCode": "CA",
+    "hasMultiplePoPs": false,
+    "latitude": 51.113899231,
+    "longitude": -114.019996643
+  },
   "MDW": {
     "city": "Chicago",
     "country": "United States",
@@ -62,6 +70,14 @@
     "hasMultiplePoPs": false,
     "latitude": 42.212398529052734,
     "longitude": -83.35340118408203
+  },
+  "HNL": {
+    "city": "Honolulu",
+    "country": "United States",
+    "countryCode": "US",
+    "hasMultiplePoPs": false,
+    "latitude": 21.32062,
+    "longitude": -157.924228
   },
   "HOU": {
     "city": "Houston",
@@ -263,6 +279,14 @@
     "latitude": 55.617900848389,
     "longitude": 12.656000137329
   },
+  "BRU": {
+    "city": "Brussels",
+    "country": "Belgium",
+    "countryCode": "BE",
+    "hasMultiplePoPs": false,
+    "latitude": 50.901401519800004,
+    "longitude": 4.48443984985
+  },
   "DUB": {
     "city": "Dublin",
     "country": "Ireland",
@@ -286,6 +310,14 @@
     "hasMultiplePoPs": false,
     "latitude": 60.317199707031,
     "longitude": 24.963300704956
+  },
+  "LIS": {
+    "city": "Lisbon",
+    "country": "Portugal",
+    "countryCode": "PT",
+    "hasMultiplePoPs": false,
+    "latitude": 38.7813,
+    "longitude": -9.13592
   },
   "LTN": {
     "city": "London",
@@ -343,6 +375,14 @@
     "latitude": 60.193901062012,
     "longitude": 11.100399971008
   },
+  "PMO": {
+    "city": "Palermo",
+    "country": "Italy",
+    "countryCode": "IT",
+    "hasMultiplePoPs": false,
+    "latitude": 38.175999,
+    "longitude": 13.091
+  },
   "CDG": {
     "city": "Paris",
     "country": "France",
@@ -358,6 +398,14 @@
     "hasMultiplePoPs": false,
     "latitude": 41.7994,
     "longitude": 12.5949
+  },
+  "SOF": {
+    "city": "Sofia",
+    "country": "Bulgaria",
+    "countryCode": "BG",
+    "hasMultiplePoPs": false,
+    "latitude": 42.696693420410156,
+    "longitude": 23.411436080932617
   },
   "ARN": {
     "city": "Stockholm",
@@ -407,6 +455,14 @@
     "latitude": 12.990005493164062,
     "longitude": 80.16929626464844
   },
+  "DXB": {
+    "city": "Dubai",
+    "country": "United Arab Emirates",
+    "countryCode": "AE",
+    "hasMultiplePoPs": false,
+    "latitude": 25.2527999878,
+    "longitude": 55.3643989563
+  },
   "FJR": {
     "city": "Fujairah",
     "country": "United Arab Emirates",
@@ -430,6 +486,14 @@
     "hasMultiplePoPs": false,
     "latitude": 17.231318,
     "longitude": 78.429855
+  },
+  "CCU": {
+    "city": "Kolkata",
+    "country": "India",
+    "countryCode": "IN",
+    "hasMultiplePoPs": false,
+    "latitude": 22.654699325561523,
+    "longitude": 88.44670104980469
   },
   "KUL": {
     "city": "Kuala Lumpur",
@@ -495,6 +559,14 @@
     "latitude": 35.764702,
     "longitude": 140.386002
   },
+  "ADL": {
+    "city": "Adelaide",
+    "country": "Australia",
+    "countryCode": "AU",
+    "hasMultiplePoPs": false,
+    "latitude": -34.945,
+    "longitude": 138.531006
+  },
   "AKL": {
     "city": "Auckland",
     "country": "New Zealand",
@@ -510,6 +582,14 @@
     "hasMultiplePoPs": false,
     "latitude": -27.384199142456055,
     "longitude": 153.11700439453125
+  },
+  "CHC": {
+    "city": "Christchurch",
+    "country": "New Zealand",
+    "countryCode": "NZ",
+    "hasMultiplePoPs": false,
+    "latitude": -43.48939895629883,
+    "longitude": 172.53199768066406
   },
   "MEL": {
     "city": "Melbourne",
@@ -543,78 +623,6 @@
     "latitude": -41.3272018433,
     "longitude": 174.804992676
   },
-  "ADL": {
-    "city": "Adelaide",
-    "country": "Australia",
-    "countryCode": "AU",
-    "hasMultiplePoPs": false,
-    "latitude": -34.945,
-    "longitude": 138.531006
-  },
-  "BRU": {
-    "city": "Brussels",
-    "country": "Belgium",
-    "countryCode": "BE",
-    "hasMultiplePoPs": false,
-    "latitude": 50.901401519800004,
-    "longitude": 4.48443984985
-  },
-  "YYC": {
-    "city": "Calgary",
-    "country": "Canada",
-    "countryCode": "CA",
-    "hasMultiplePoPs": false,
-    "latitude": 51.113899231,
-    "longitude": -114.019996643
-  },
-  "CHC": {
-    "city": "Christchurch",
-    "country": "New Zealand",
-    "countryCode": "NZ",
-    "hasMultiplePoPs": false,
-    "latitude": -43.48939895629883,
-    "longitude": 172.53199768066406
-  },
-  "DXB": {
-    "city": "Dubai",
-    "country": "United Arab Emirates",
-    "countryCode": "AE",
-    "hasMultiplePoPs": false,
-    "latitude": 25.2527999878,
-    "longitude": 55.3643989563
-  },
-  "HNL": {
-    "city": "Honolulu",
-    "country": "United States",
-    "countryCode": "US",
-    "hasMultiplePoPs": false,
-    "latitude": 21.32062,
-    "longitude": -157.924228
-  },
-  "CGK": {
-    "city": "Jakarta",
-    "country": "Indonesia",
-    "countryCode": "ID",
-    "hasMultiplePoPs": false,
-    "latitude": -6.1255698204,
-    "longitude": 106.65599823
-  },
-  "CCU": {
-    "city": "Kolkata",
-    "country": "India",
-    "countryCode": "IN",
-    "hasMultiplePoPs": false,
-    "latitude": 22.654699325561523,
-    "longitude": 88.44670104980469
-  },
-  "LIS": {
-    "city": "Lisbon",
-    "country": "Portugal",
-    "countryCode": "PT",
-    "hasMultiplePoPs": false,
-    "latitude": 38.7813,
-    "longitude": -9.13592
-  },
   "MEX": {
     "city": "Mexico City",
     "country": "Mexico",
@@ -630,21 +638,5 @@
     "hasMultiplePoPs": false,
     "latitude": -1.31923997402,
     "longitude": 36.9277992249
-  },
-  "SOF": {
-    "city": "Sofia",
-    "country": "Bulgaria",
-    "countryCode": "BG",
-    "hasMultiplePoPs": false,
-    "latitude": 42.696693420410156,
-    "longitude": 23.411436080932617
-  },
-  "TPE": {
-    "city": "Taipei",
-    "country": "Taiwan, Province of China",
-    "countryCode": "TW",
-    "hasMultiplePoPs": false,
-    "latitude": 25.0777,
-    "longitude": 121.233002
   }
 }
