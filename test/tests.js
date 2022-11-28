@@ -32,7 +32,7 @@ describe("# Testing the fastly-edge-locations functionality", function() {
     it("should return the correct count of locations", function (done) {
       const el = new FastlyEdgeLocations();
 
-      el.getLocationCount().should.eql(80);
+      el.getLocationCount().should.eql(81);
       done();
     });
   });
