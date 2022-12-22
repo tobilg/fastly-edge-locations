@@ -171,7 +171,7 @@
     "city": "Seattle",
     "country": "United States",
     "countryCode": "US",
-    "hasMultiplePoPs": false,
+    "hasMultiplePoPs": true,
     "latitude": 47.529998779296875,
     "longitude": -122.302001953125
   },
@@ -446,6 +446,14 @@
     "hasMultiplePoPs": false,
     "latitude": -26.1392,
     "longitude": 28.246
+  },
+  "DMK": {
+    "city": "Bangkok",
+    "country": "Thailand",
+    "countryCode": "TH",
+    "hasMultiplePoPs": false,
+    "latitude": 13.9125995636,
+    "longitude": 100.607002258
   },
   "MAA": {
     "city": "Chennai",
