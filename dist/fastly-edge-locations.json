@@ -631,14 +631,6 @@
     "latitude": -41.3272018433,
     "longitude": 174.804992676
   },
-  "MEX": {
-    "city": "Mexico City",
-    "country": "Mexico",
-    "countryCode": "MX",
-    "hasMultiplePoPs": false,
-    "latitude": 19.4363,
-    "longitude": -99.072098
-  },
   "NBO": {
     "city": "Nairobi",
     "country": "Kenya",

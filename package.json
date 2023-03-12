@@ -1,6 +1,6 @@
 {
   "name": "fastly-edge-locations",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "description": "List of fastly.com edge location code prefixes",
   "main": "umd/fastly-edge-locations.min.js",
   "module": "src/index.js",
