@@ -630,13 +630,5 @@
     "hasMultiplePoPs": false,
     "latitude": -41.3272018433,
     "longitude": 174.804992676
-  },
-  "NBO": {
-    "city": "Nairobi",
-    "country": "Kenya",
-    "countryCode": "KE",
-    "hasMultiplePoPs": false,
-    "latitude": -1.31923997402,
-    "longitude": 36.9277992249
   }
 }
